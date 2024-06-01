@@ -56,6 +56,9 @@ Nix resources that I probably talked about at some point.
 - [home-manager](https://github.com/nix-community/home-manager):
   Manage your dotfiles with a declarative Nix module DSL.
 
+- [nixos-shell](https://github.com/Mic92/nixos-shell):
+  Spawn lightweight NixOS VMs in a shell.
+
 ## Other
 
 - [nixified.ai](https://nixified.ai/):
