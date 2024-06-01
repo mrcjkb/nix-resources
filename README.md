@@ -59,6 +59,9 @@ Nix resources that I probably talked about at some point.
 - [nixos-shell](https://github.com/Mic92/nixos-shell):
   Spawn lightweight NixOS VMs in a shell.
 
+- [git-hooks.nix](https://github.com/cachix/git-hooks.nix)
+  pre-commit/CI hooks
+
 ## Other
 
 - [nixified.ai](https://nixified.ai/):
